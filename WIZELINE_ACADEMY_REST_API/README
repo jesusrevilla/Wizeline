@@ -1,0 +1,11 @@
+Python version 3.8
+Framework Django see requirements.txt
+Dependencies: requests see requirements.txt
+
+Two end points
+
+1) http://127.0.0.1:8000/hello/
+2) http://127.0.0.1:8000/hello/external
+
+Number one just return Hello, World. message locally
+Number two consumes external API from educational web site: https://sandbox.api.service.nhs.uk/hello-world/hello/world and return JSON message

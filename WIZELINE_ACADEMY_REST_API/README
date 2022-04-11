@@ -9,3 +9,5 @@ Two end points
 
 Number one just return Hello, World. message locally
 Number two consumes external API from educational web site: https://sandbox.api.service.nhs.uk/hello-world/hello/world and return JSON message
+
+Tests are located in folder: Wizeline/WIZELINE_ACADEMY_REST_API/hello/test/
